@@ -27,3 +27,5 @@ The model is trained on [Insert Dataset Name, e.g., Kaggle Brain Tumor Dataset].
    ```bash
    git clone [https://github.com/darklight9034257284-sudo/Brain-tumor.git](https://github.com/darklight9034257284-sudo/Brain-tumor.git)
    cd Brain-tumor
+
+This dataset isn't mine , I got it from internet.
